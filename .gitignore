@@ -1,3 +1,7 @@
+# ruvido----
+_tmp
+_site
+
 # Logs
 logs
 *.log
